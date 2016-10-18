@@ -12,10 +12,10 @@ TForm1 *Form1;
 __fastcall TForm1::TForm1(TComponent* Owner)
 	: TForm(Owner)
 {
-	UnicodeString test2 = "コンフリクト後";
+	UnicodeString test3 = "コンフリクト後";
 
-	if (true) {
-		// コンフリクト前
+	if (false) {
+		// コンフリクト後
 	}
 }
 //---------------------------------------------------------------------------
