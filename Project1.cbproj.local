@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/10/18 10:46:36.000.834,=C:\Users\hiraga_test\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2016/10/18 10:46:36.000.924,=C:\Users\hiraga_test\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2016/10/18 14:00:38.309,=C:\Users\hiraga_test\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2016/10/18 14:00:38.334,=C:\Users\hiraga_test\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2016/10/18 14:01:20.047,C:\Work\Project\testConflict\Unit1.dfm=C:\Users\hiraga_test\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2016/10/18 14:01:20.047,C:\Work\Project\testConflict\Unit1.cpp=C:\Users\hiraga_test\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2016/10/18 14:01:20.047,C:\Work\Project\testConflict\Unit1.h=C:\Users\hiraga_test\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2016/10/18 14:01:21.026,C:\Work\Project\testConflict\Project1PCH1.h=C:\Users\hiraga_test\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2016/10/18 14:01:21.911,C:\Work\Project\testConflict\Project1.cbproj=C:\Users\hiraga_test\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
