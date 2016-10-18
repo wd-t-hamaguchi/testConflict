@@ -14,8 +14,8 @@ __fastcall TForm1::TForm1(TComponent* Owner)
 {
 	UnicodeString test2 = "コンフリクト後";
 
-	if (true) {
-		// コンフリクト前
+	if (false) {
+		// コンフリクト後
 	}
 }
 //---------------------------------------------------------------------------
